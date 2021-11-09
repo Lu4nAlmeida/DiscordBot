@@ -327,4 +327,5 @@ async def piada(ctx):
     await ctx.send(random.choice(responses))
 
 
+
 client.run('TOKEN')
